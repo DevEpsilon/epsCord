@@ -1,0 +1,15 @@
+{
+    "words": [
+        "EPSILON",
+        "EPSI",
+        "epsi",
+        "eps",
+        "epsilon",
+        "epsiii",
+        "epsii",
+        "EPS"
+    ],
+    "blacklist": [
+        ""
+    ]
+}
