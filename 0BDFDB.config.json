@@ -1,0 +1,24 @@
+{
+	"changeLogs": {
+		"BDFDB": "1.5.0",
+		"BadgesEverywhere": "1.6.5",
+		"CreationDate": "1.4.1",
+		"JoinedAtDate": "1.2.6",
+		"MessageUtilities": "1.8.8",
+		"ReadAllNotificationsButton": "1.6.7",
+		"ShowHiddenChannels": "2.9.3"
+	},
+	"choices": {
+		"toastPosition": "right"
+	},
+	"general": {
+		"showToasts": true,
+		"showSupportBadges": true,
+		"useChromium": false
+	},
+	"settings": {
+		"showSupportBadges": true,
+		"showToasts": true,
+		"useChromium": false
+	}
+}
